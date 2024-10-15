@@ -1,0 +1,3 @@
+https://www.premierleague.com/players/{numero}/player/overview  : maximo 19970 & minimo 1
+https://www.premierleague.com/players/{numero}/player/stats     : maximo 19970 & minimo 1
+
